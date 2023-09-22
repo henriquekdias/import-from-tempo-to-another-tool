@@ -1,0 +1,14 @@
+{
+    "toggl":
+    {
+        "usertoken":"<string>",
+        "useremail":"<string>",
+        "userpassword":"<string>",
+        "workspaceid":<int>
+    },
+    "clockify":
+    {
+        "api_key":"<string>",
+        "projectId":"<string>"
+    }
+}
