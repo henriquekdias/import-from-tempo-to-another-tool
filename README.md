@@ -124,4 +124,4 @@ Example:
 
 3. Script check if time entries from Tempo are from current week. If there is a time entry from different week, script ask user if they want to continue or cancel all the import
 
-4. Before export time entry to selected Time Tracking tool, script check if there is a time entry on selected Time Tracking tool with the same Start Date, same Durantion and same Description of the time entry that it is about to save. If there is, script ask user if they want to continue or cancel export of current time entry.
+4. Before export time entry to selected Time Tracking tool, script check if there is a time entry on selected Time Tracking tool with the same Start Date, same Duration and same Description of the time entry that it is about to save. If there is, script ask user if they want to continue or cancel export of current time entry.
